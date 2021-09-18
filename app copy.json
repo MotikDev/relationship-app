@@ -4,7 +4,7 @@
     "slug": "finalYearProject",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/rsz_1img.png",
+    "icon": "./assets/img.png",
     "android": {
       "package": "com.motikdev.finalYearProject",
       "versionCode": 1
@@ -19,6 +19,12 @@
     },
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
   }
 }

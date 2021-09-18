@@ -8,6 +8,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+relationship
+relationship.pub
 
 # macOS
 .DS_Store
